@@ -3,6 +3,8 @@
 Ce projet a été donné en mars 2021 à un groupe de deux élèves de terminale NSI.
 Il est actuellement en *work in progress*.
 
+Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
+
 1. Première étape : (TODO)
 
 Créer une mosaïque d'une photo en créer des carrés ayant pour couleur la couleur moyenne des pixels de l'image d'origine.
