@@ -1,6 +1,6 @@
 # Projet Photomosaïque
 
-Ce projet est donné mar 2021 à un groupe d'élèves de terminale NSI.
+Ce projet est donné mars 2021 à un groupe de deux élèves de terminale NSI.
 Il est actuellement en work in progress.
 
 1. Première étape : (TODO)
