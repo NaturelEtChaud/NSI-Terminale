@@ -1,3 +1,24 @@
-#Sudoku
+# Projet Sudoku
 
-Ce projet à été donnée en mars 2021 à un groupe de 4 élèves.
+Ce projet a été donné en mars 2021 à un groupe de quatre élèves de terminale NSI.
+Il est actuellement en *work in progress*.
+
+Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
+
+1. Première étape : (TODO)
+
+Affichage d'une grille.
+
+2. Deuxième étape : (TODO)
+
+Création de trois fonctions pour comptabiliser le nombre de case vide sur une ligne, sur une colonne, sur un carré de 9 cases.
+
+3. Troisième étape : (TODO)
+
+S'il manque une seule case sur une ligne, une colonne ou un carré de 9 cases, on complète la ligne, la colonne ou le carré.
+On répète le processus jusqu'à ce que la grille soient complètement remplie.
+
+4. Quatrième étape : (TODO)
+
+Voir et étudier le principe du backtracking.
+
