@@ -11,7 +11,7 @@ Affichage d'une grille.
 
 2. Deuxième étape : (TODO)
 
-Création de trois fonctions pour comptabiliser le nombre de case vide sur une ligne, sur une colonne, sur un carré de 9 cases.
+Création de trois fonctions pour comptabiliser le nombre de cases vides sur une ligne, sur une colonne, sur un carré de 9 cases.
 
 3. Troisième étape : (TODO)
 
