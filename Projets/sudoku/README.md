@@ -5,7 +5,7 @@ Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
 
-1. Première étape : (TODO)
+1. Première étape :
 
 Affichage d'une grille.
 
