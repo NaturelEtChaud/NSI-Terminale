@@ -22,3 +22,5 @@ On répète le processus jusqu'à ce que la grille soient complètement remplie.
 
 Voir et étudier le principe du backtracking.
 
+Par exemple ici : https://zestedesavoir.com/tutoriels/476/le-backtracking-par-lexemple-resoudre-un-sudoku/
+
