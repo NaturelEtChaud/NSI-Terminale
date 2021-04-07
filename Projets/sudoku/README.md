@@ -1,6 +1,6 @@
 # Projet Sudoku
 
-Ce projet a été donné en mars 2021 à un groupe de quatre élèves de terminale NSI.
+Ce projet a été donné en mars 2021 à un groupe d'élèves de terminale NSI.
 Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
