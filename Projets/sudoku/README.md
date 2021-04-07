@@ -9,7 +9,7 @@ Les documents proposés ici sont ma version de ce projet que je mène en parall�
 
 Affichage d'une grille.
 
-2. Deuxième étape : (TODO)
+2. Deuxième étape : *Fait*
 
 Création de trois fonctions pour comptabiliser le nombre de cases vides sur une ligne, sur une colonne, sur un carré de 9 cases.
 
