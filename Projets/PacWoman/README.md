@@ -10,6 +10,11 @@ Créer un objet `perso` pour caractériser les différents personnages du jeu. E
 D'un côté, l'objet `PacWoman`, de l'autre l'objet `fantome`.
 
 
-1. Première étape : TODO
+2. Deuxième étape : TODO <br /> 
+A l'aide de la bibilothèque `Pygame` créer un environnement de jeu pour PacWoman et les fantômes.
 
-A l'aide de la bibilothèque créer un environnement de jeu pour PacWoman et les fantômes.
+3. Troisième étape : TODO <br />
+Créer un graphe associé au différent parcours possible sur l'aire de jeu.
+
+4. Quatrième étape : TODO <br />
+Munir les `fantomes` d'un algorithme de *recherche de chemin le plus court* (Dijkstra ou  A* ?) pour qu'ils choisissent systèmatiquement le chemin le plus court pour retrouver PacWoman
