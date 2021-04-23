@@ -8,11 +8,11 @@ Les données proviennent du *Consortium International des Journalistes d'Investi
 
 Elles sont librement téléchargeables là : https://offshoreleaks.icij.org/pages/database
 
-##Mots-clefs :
+## Mots-clefs :
 
 Panama Papers, SQL, Jointure
 
-##Les différentes étapes
+## Les différentes étapes
 
 1. Première étape : TODO <br />
 Regarder les data, analyser les descripteurs, trouver les liens entre les différentes tables
