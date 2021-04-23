@@ -17,4 +17,4 @@ A l'aide de la bibilothèque `Pygame` créer un environnement de jeu pour PacWom
 Créer un graphe associé au différent parcours possible sur l'aire de jeu.
 
 4. Quatrième étape : TODO <br />
-Munir les `fantomes` d'un algorithme de *recherche de chemin le plus court* (Dijkstra ou  A* ?) pour qu'ils choisissent systèmatiquement le chemin le plus court pour retrouver PacWoman
+Munir les `fantomes` d'un algorithme de *recherche de chemin le plus court* (Dijkstra ou  A* ?) pour qu'ils choisissent systèmatiquement le chemin le plus court pour retrouver PacWoman.
