@@ -5,6 +5,12 @@ Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
 
+## Mots-clefs :
+
+Python, PIL, CSV
+
+## Les différentes étapes
+
 1. Première étape : *Fait* <br />
 Créer une mosaïque d'une photo en créer des carrés ayant pour couleur la couleur moyenne des pixels de l'image d'origine.
 
