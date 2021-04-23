@@ -10,7 +10,7 @@ Elles sont librement téléchargeables là : https://offshoreleaks.icij.org/page
 
 ## Mots-clefs :
 
-Panama Papers, SQL, Jointure
+Panama Papers, Base de donnés, CSV, SQL, Jointure
 
 ## Les différentes étapes
 
