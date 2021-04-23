@@ -7,7 +7,7 @@ Les documents proposés ici sont ma version de ce projet que je mène en parall�
 
 ## Mots-clefs :
 
-Python, PIL, CSV
+Python, PIL, CSV, Base de données
 
 ## Les différentes étapes
 
