@@ -9,14 +9,11 @@ Les données proviennent du *Consortium International des Journalistes d'Investi
 Elles sont librement téléchargeables là : https://offshoreleaks.icij.org/pages/database
 
 
-1. Première étape : TODO
-
+1. Première étape : TODO <br />
 Regarder les data, analyser les descripteurs, trouver les liens entre les différentes tables
 
-2. Deuxième étape : TODO
-
+2. Deuxième étape : TODO <br />
 Déterminer les clefs primaires et les clefs étrangères de chaque table
 
-3. Troisième étape : TODO
-
+3. Troisième étape : TODO <br />
 Effectuer quelques requêtes SQL
