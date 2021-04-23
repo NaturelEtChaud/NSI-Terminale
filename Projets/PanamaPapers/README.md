@@ -8,6 +8,11 @@ Les données proviennent du *Consortium International des Journalistes d'Investi
 
 Elles sont librement téléchargeables là : https://offshoreleaks.icij.org/pages/database
 
+##Mots-clefs :
+
+Panama Papers, SQL, Jointure
+
+##Les différentes étapes
 
 1. Première étape : TODO <br />
 Regarder les data, analyser les descripteurs, trouver les liens entre les différentes tables
@@ -16,4 +21,4 @@ Regarder les data, analyser les descripteurs, trouver les liens entre les diffé
 Déterminer les clefs primaires et les clefs étrangères de chaque table
 
 3. Troisième étape : TODO <br />
-Effectuer quelques requêtes SQL
+Effectuer quelques requêtes SQL avec de belles jointures
