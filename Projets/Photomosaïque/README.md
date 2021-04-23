@@ -5,16 +5,13 @@ Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
 
-1. Première étape : *Fait*
-
+1. Première étape : *Fait* <br />
 Créer une mosaïque d'une photo en créer des carrés ayant pour couleur la couleur moyenne des pixels de l'image d'origine.
 
-2. Deuxième étape : (TODO)
-
+2. Deuxième étape : (TODO) <br />
 Effectuer un pré-traitement d'une base d'images.
 Obtenir la couleur moyenne de toutes les images de la base et enregistrer les données dans un fichier CSV.
 
-3. Troisième étape : (TODO)
-
+3. Troisième étape : (TODO) <br />
 Remplacer chaque carré moyen de l'image par une image de la base qui a la couleur moyenne la plus proche.
 Evidemment, plus la base est conséquente plus la photomosaïque est de qualité.
