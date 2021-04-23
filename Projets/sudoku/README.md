@@ -5,6 +5,12 @@ Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
 
+## Mots-clefs :
+
+Python, Tableau 2D, Backtracking
+
+## Les différentes étapes
+
 1. Première étape : *Fait* <br />
 Affichage d'une grille.
 
