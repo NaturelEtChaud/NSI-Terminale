@@ -1,6 +1,6 @@
 # PacWoman
 
-Ce projet a été donné en mars 2021 à un groupe d'élèves de terminale NSI. Il est actuellement en work in progress.
+Ce projet a été donné en mars 2021 à un groupe d'élèves de terminale NSI. Il est actuellement en *work in progress*.
 
 Les documents proposés ici sont ma version de ce projet que je mène en parallèle du travail de mes élèves.
 
