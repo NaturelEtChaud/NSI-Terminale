@@ -22,6 +22,10 @@ Résolution d'un grille d'un niveau 1 : s'il manque une seule case sur une ligne
 On répète le processus jusqu'à ce que la grille soient complètement remplie.
 
 4. Quatrième étape : (TODO) <br />
+Résolution d'un grille d'un niveau 2 : s'il manque plusieurs cases sur une ligne, pour une case vide, on interroge la ligne, la colonne et le carré pour déterminer l'unique solution possible.
+On répète le processus jusqu'à ce que la grille soient complètement remplie.
+
+5. Cinquième étape : (TODO) <br />
 Voir et étudier le principe du backtracking. <br />
 Par exemple ici : https://zestedesavoir.com/tutoriels/476/le-backtracking-par-lexemple-resoudre-un-sudoku/
 
