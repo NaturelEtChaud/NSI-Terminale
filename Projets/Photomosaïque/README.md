@@ -18,6 +18,10 @@ Créer une mosaïque d'une photo en créer des carrés ayant pour couleur la cou
 Effectuer un pré-traitement d'une base d'images.
 Obtenir la couleur moyenne de toutes les images de la base et enregistrer les données dans un fichier CSV.
 
+2. Deuxième étape : (version alternative) (TODO) <br />
+Effectuer un pré-traitement d'une base d'images.
+Obtenir la couleur moyenne de toutes les images de la base et enregistrer les données **dans une base SQL**.
+
 3. Troisième étape : (TODO) <br />
 Remplacer chaque carré moyen de l'image par une image de la base qui a la couleur moyenne la plus proche.
 Evidemment, plus la base est conséquente plus la photomosaïque est de qualité.
