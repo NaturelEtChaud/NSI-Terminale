@@ -23,7 +23,7 @@ On répète le processus jusqu'à ce que la grille soient complètement remplie.
 
 4. Quatrième étape : (TODO) <br />
 Résolution d'un grille d'un niveau 2 : s'il manque plusieurs cases sur une ligne, pour une case vide, on interroge la ligne, la colonne et le carré pour déterminer l'unique solution possible.
-On répète le processus jusqu'à ce que la grille soient complètement remplie.
+On répète le processus jusqu'à ce que la grille soit complètement remplie.
 
 5. Cinquième étape : (TODO) <br />
 Voir et étudier le principe du backtracking. <br />
