@@ -17,7 +17,7 @@ Affichage d'une grille.
 2. Deuxième étape : *Fait* <br />
 Création de trois fonctions pour comptabiliser le nombre de cases vides sur une ligne, sur une colonne, sur un carré de 9 cases.
 
-3. Troisième étape : (TODO) <br />
+3. Troisième étape : *Fait* <br />
 Résolution d'un grille d'un niveau 1 : s'il manque une seule case sur une ligne, une colonne ou un carré de 9 cases, on complète la ligne, la colonne ou le carré.
 On répète le processus jusqu'à ce que la grille soient complètement remplie.
 
