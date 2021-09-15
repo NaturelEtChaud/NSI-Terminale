@@ -16,7 +16,7 @@ On y revoit aussi les algorithmes de bases à connaître :
 
 ---
 
-Dans ce dossier vous trouverez un notebook sur les deux algorithmes de tri vus en première et un notebook pour comparer leur efficacité.
+Dans ce dossier vous trouverez un notebook sur [les deux algorithmes de tri vus en première](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/1%20Algorithmique/algorithmes_tri.ipynb) et un notebook pour [comparer leur efficacité](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/1%20Algorithmique/comparaison_algorithmes_tri.ipynb).
 
-Le cours est disponible en pdf.
+Le [cours](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/1%20Algorithmique/Terminale_NSI01_Algorithmique.pdf) est disponible en pdf.
 
