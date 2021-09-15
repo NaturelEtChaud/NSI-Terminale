@@ -20,3 +20,6 @@ Dans ce dossier vous trouverez un notebook sur [les deux algorithmes de tri vus 
 
 Le [cours](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/1%20Algorithmique/Terminale_NSI01_Algorithmique.pdf) est disponible en pdf.
 
+---
+
+Pour mémoire, il faut cliquer sur ce lien pour rendre les notebooks interactifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Terminale/HEAD)
