@@ -7,3 +7,7 @@ Voici un lien :
 
 ---
 Vous pouvez retrouver [le cours complet](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Terminale_NSI02_La_POO.pdf) en pdf.
+
+---
+
+Pour mémoire, il faut cliquer sur ce lien pour rendre les notebooks interactifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lebonprof/NSI-Terminale/HEAD)
