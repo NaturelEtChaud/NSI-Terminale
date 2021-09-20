@@ -10,7 +10,7 @@ def PGCD(a,b):
     renvoie le PGCD de a et de b
     autrement le plus grand diviseur commun
     '''
-    m = min(a,b)
+    m = min(abs(a),abs(b))
     #d est le diviseur commun
     #au minimum 1 au maximum m, le minimum entre a et b
     d = 1
