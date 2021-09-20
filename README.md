@@ -3,7 +3,7 @@
 Cet espace est réservé à mes cours de NSI au niveau terminale.
 
 1. [Rappels d'algorithmique](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/1%20Algorithmique)
-2. La Programmation Orientée Objet (POO)
+2. [La Programmation Orientée Objet (POO)](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO)
 3. La récursivité
 4. Les bases de données
 5. Diviser pour régner
