@@ -148,3 +148,10 @@ class Fraction :
         '''
         #on passe par une mise au même dénominateur
         return (self.num * autre.den < autre.num * self.den)
+
+    def __eq__(self, autre) :
+        '''
+        renvoie Vrai si la fraction est égale à l'autre
+        '''
+        #on fait le produit en croix
+        return (self.num * autre.den == autre.num * self.den)
