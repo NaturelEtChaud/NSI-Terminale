@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2021
+Created on Tue Sep  8 16:03:18 2020
 
 @author: Laurent Chaudet
 """
@@ -53,7 +53,7 @@ class Horloge :
         h = rajouterZero(self.heure)
         m = rajouterZero(self.minute)
         s = rajouterZero(self.seconde)
-        return str(h)+"/"+str(m)+"/"+str(s)
+        return h+"/"+m+"/"+s
 
 
 #################################################
