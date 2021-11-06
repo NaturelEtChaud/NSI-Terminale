@@ -7,9 +7,14 @@ Voici un lien :
 
 ---
 
-Vous pouvez retrouver [le cours complet](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Terminale_NSI02_La_POO.pdf) en pdf.
+Vous pouvez : 
+* retrouver [le cours complet](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Terminale_NSI02_La_POO.pdf) en pdf.
 
-Vous pouvez aussi tester le module `maFraction` sur le notebook [suivant](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/utilisation_module_maFraction.ipynb).
+* tester le module `maFraction` sur le notebook [suivant](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/utilisation_module_maFraction.ipynb).
+
+* télécharger mon module `maFraction` en cliquant sur ce [lien](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/maFraction.py).
+
+* récupérer le corriger de quelques programmes à coder en Python sur ce dernier [lien](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO/exercices).
 
 ---
 
