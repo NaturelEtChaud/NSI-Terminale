@@ -58,7 +58,7 @@ class Fraction :
         '''
         affiche la représentation de la fraction
         '''
-        return "L'objet est du type "+self.keskc+" est vaut "+str(self.num) + '/' + str(self.den)
+        return "L'objet est du type "+self.keskc+" et vaut "+str(self.num) + '/' + str(self.den)
     
     def __str__(self) :
         '''
