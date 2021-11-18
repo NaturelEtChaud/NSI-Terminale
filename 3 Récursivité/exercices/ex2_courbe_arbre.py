@@ -14,6 +14,7 @@ n = 10
 
 #la fonction définie par récursivité
 def arbre(n,l,r,o):
+    color('brown')
     if n == 0:
         color('green')
         forward(l)
@@ -43,7 +44,6 @@ down()
 left(180)
 
 #c'est parti pour faire un beau dessin
-color('brown')
 arbre(n,l,r,o)
 
 
