@@ -7,6 +7,6 @@ Une toute première activité pour voir ce qu'est une requête SQL afin de la co
 Une première activité préparatoire autour d'un service de location de voitures : [Gothan](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20Base%20de%20donn%C3%A9es/Gothan)
 
 
-Une activité sur les groupes de Metal :
+Une activité sur les groupes de Metal : [Metal](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20Base%20de%20donn%C3%A9es/metal)
 
 ---
