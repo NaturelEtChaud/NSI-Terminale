@@ -21,7 +21,7 @@ class Pile:
 	def __str__(self):
 		retour = ""
 		for e in range(len(self.pile)-1, -1,-1):
-				retour = retour + str(self.pile[e]) + '\n'
+			retour = retour + str(self.pile[e]) + '\n'
 		retour = retour + "====\n"
 		return retour
 
