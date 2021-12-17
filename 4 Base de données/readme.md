@@ -19,3 +19,8 @@ Les vidéos à regarder ou articles à lire :
 * *Ces mauvaises manipulations d'Excel*, un [article](https://www.bfmtv.com/tech/finance-espionnage-genetique-ces-mauvaises-manipulations-d-excel-qui-ont-conduit-a-des-desastres_AN-202010110001.html) du site BFMTV.
 * *Les politiques d’austérité, à cause d’une erreur sous Excel ?*  le lien vers l'[article](https://scienceetonnante.com/2020/04/17/austerite-excel/) ou directement celui de la [vidéo sur Youtube](https://www.youtube.com/watch?v=yeX_Zs7zztY).
 * La vidéo sur Youtube [Pythonnerie n°23](https://www.youtube.com/watch?v=pqoIBiM2AvE) qui présente les systèmes relationnels, les requêtes et l'histoire des bases de données.
+
+---
+Deux vidéos sur le site LUMNI :
+* [Qu'est-ce qu'une base de données relationnelle](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle)
+* [Interogation d'une base de données relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle)
