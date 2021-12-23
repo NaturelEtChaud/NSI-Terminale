@@ -21,6 +21,11 @@ Les vidéos à regarder ou articles à lire :
 * La vidéo sur Youtube [Pythonnerie n°23](https://www.youtube.com/watch?v=pqoIBiM2AvE) qui présente les systèmes relationnels, les requêtes et l'histoire des bases de données.
 
 ---
+Le site de la [CNAM](http://deptfod.cnam.fr/bd/tp/) propose quatre bases (base de films, base des voyageurs, base des immeubles, base de messagerie) avec prossibiltés de poser ses requêtes en ligne.
+
+Un certain nombre de requêtes est proposé avec les corrections.
+
+---
 Deux vidéos sur le site LUMNI :
 * [Qu'est-ce qu'une base de données relationnelle](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle)
 * [Interogation d'une base de données relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle)
