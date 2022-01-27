@@ -10,4 +10,4 @@
 [création des tables](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/4%20Base%20de%20donn%C3%A9es/Gothan/SpeedyMcQueen_1_cr%C3%A9ation_tables.sql)<br>
 [insertion des entités](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/4%20Base%20de%20donn%C3%A9es/Gothan/SpeedyMcQueen_2_insertion_entit%C3%A9s.sql)<br>
 [requêtes simples de l'exercice 14](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/4%20Base%20de%20donn%C3%A9es/Gothan/SpeedyMcQueen_3_requ%C3%AAtes_ex14.sql)<br>
-[requêtes de l'exercice 15](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/4%20Base%20de%20donn%C3%A9es/Gothan/SpeedyMcQueen_4_requ%C3%AAtes_ex15.sql)
+[requêtes avec jointure de l'exercice 15](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/4%20Base%20de%20donn%C3%A9es/Gothan/SpeedyMcQueen_4_requ%C3%AAtes_ex15.sql)
