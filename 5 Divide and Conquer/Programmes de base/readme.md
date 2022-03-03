@@ -1,1 +1,1 @@
-Voici des programmes en Python qu'il faut connaître par coeur
+Voici des algorithmes écrit en Python qu'il faut connaître par coeur
