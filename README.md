@@ -6,8 +6,8 @@ Cet espace est réservé à mes cours de NSI au niveau terminale.
 2. [La Programmation Orientée Objet (POO)](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO)
 3. [La récursivité](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/3%20R%C3%A9cursivit%C3%A9)
 4. [Les bases de données](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20Base%20de%20donn%C3%A9es)
-5. Diviser pour régner
-6. Programmation dynamique
+5. [Diviser pour régner](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/5%20Divide%20and%20Conquer)
+6. [Programmation dynamique](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/6%20Programmation%20Dynamique)
 7. Paradigme fonctionnel
 
 <br>
