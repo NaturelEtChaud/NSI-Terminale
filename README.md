@@ -1,8 +1,10 @@
 # NSI-Terminale
 
-Cet espace est réservé à mes cours de NSI au niveau terminale.
+Je partage la terminale NSI avec mon collègue X. CHAUVIN. Vous ne trouverez donc ici que la moitié du programme de Terminale.
 
-1. [Rappels d'algorithmique](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/1%20Algorithmique)
+
+
+1. [Structure de données I](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/1%20Structure%20de%20donn%C3%A9es%20I)
 2. [La Programmation Orientée Objet (POO)](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO)
 3. [La récursivité](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/3%20R%C3%A9cursivit%C3%A9)
 4. [Les bases de données](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20Base%20de%20donn%C3%A9es)
@@ -26,3 +28,10 @@ Pour programmer à la maison :
 
 * vous pouvez télécharger et installer l'IDE [Pyzo](https://pyzo.org/start.html)
 * vous pouvez utilser l'IDE en ligne [Basthon](https://console.basthon.fr/)
+<br>
+<br>
+
+---
+Pour information, mes cours sont tapés en LaTeX. Pour ce faire, j'ai utilisé le template *The Legrand Orange Book* que j'ai légèrement personnalisé. On peut le trouver sur le site [LaTeX Templates](https://www.latextemplates.com/template/legrand-orange-book). <br />
+J'ai aussi utilisé pour mes chapitres des images issues des séries animées **The simpsons**, **Futurama** et **Disenchantment**. Je n'ai évidemment pas le droit d'utilisation de ces images et ce n'est pas bien du tout, non pas bien. Mais il faut parfois savoir vivre dangereusement. <br />
+Si vous êtes un ayant droit et que vous êtes choqué, faites le moi savoir. On peut s'arranger. Ce n'est pas la peine de me faire tout de suite un procès.
