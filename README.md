@@ -6,7 +6,7 @@ Je partage la terminale NSI avec mon collègue X. CHAUVIN. Vous ne trouverez don
 
 1. [Structure de données I](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/1%20Structure%20de%20donn%C3%A9es%20I)
 2. [La Programmation Orientée Objet (POO)](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO) *à refaire*
-3. Structure de données I *à faire*
+3. Structure de données II *à faire*
 4. [La récursivité](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/3%20R%C3%A9cursivit%C3%A9) *à refaire*
 5. [Les bases de données](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20Base%20de%20donn%C3%A9es) *à refaire*
 6. [Diviser pour régner](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/5%20Divide%20and%20Conquer) *à refaire*
