@@ -11,12 +11,12 @@ def PGCD(a,b):
     autrement le plus grand diviseur commun
     '''
     m = min(abs(a),abs(b))
-    #d est le diviseur commun
-    #au minimum 1 au maximum m, le minimum entre a et b
+    # d est le diviseur commun
+    # au minimum 1 au maximum m, le minimum entre a et b
     d = 1
     for i in range(2,m+1):
         if (a%i==0 and b%i==0):
-            #c'est un diviseur commun
+            # c'est un diviseur commun
             d = i
     return d
 
@@ -28,15 +28,15 @@ class Fraction :
     - den le dénominateur, un entier non nul
     '''
     
-    #constructeur
+    # constructeur
     def __init__(self, num, den):
-        #vérifications d'usage
+        # vérifications d'usage
         assert den!=0, "on ne peut diviser par zéro"
         assert type(num)==int and type(den)==int, "le numérateur et le dénominateur doivent être des entiers" 
-        #signe
+        # signe
         if den < 0 :
             num, den = -num, -den
-        #simplification
+        # simplification
         d = PGCD(num, den)
         self.num = num//d
         self.den = den//d        
@@ -58,7 +58,7 @@ class Fraction :
         '''
         affiche la représentation de la fraction
         '''
-        return "L'objet est du type "+self.keskc+" et vaut "+str(self.num) + '/' + str(self.den)
+        return "L'objet est du type "+self.keskc+" est vaut "+str(self.num) + '/' + str(self.den)
     
     def __str__(self) :
         '''
@@ -74,7 +74,7 @@ class Fraction :
         '''
         effectue la somme avec la fraction autre
         '''
-        #on utilise le constructeur
+        # on utilise le constructeur
         calcul = Fraction(self.num * autre.den + autre.num * self.den , self.den * autre.den )
         return calcul
     
@@ -82,7 +82,7 @@ class Fraction :
         '''
         effectue la différence avec la fraction autre
         '''
-        #on utilise le constructeur
+        # on utilise le constructeur
         calcul = Fraction(self.num * autre.den - autre.num * self.den , self.den * autre.den )
         return calcul
     
@@ -91,11 +91,11 @@ class Fraction :
         effectue le produit avec la fraction autre
         autre peut-être une fraction ou un entier
         '''
-        #on vérifie que autre est une bien Fraction
+        # on vérifie que autre est une bien Fraction
         if isinstance(autre, Fraction) :
             calcul = Fraction(self.num * autre.num, self.den * autre.den )
         else :
-            #on s'assure quand même que autre est un entier
+            # on s'assure quand même que autre est un entier
             assert type(autre)==int, "les nombres doivent être des fractions ou des entiers"
             calcul = Fraction(self.num * autre, self.den )
         return calcul
@@ -110,7 +110,7 @@ class Fraction :
         '''
         effectue le quotient avec la fraction autre
         '''
-        #on utilise le constructeur
+        # on utilise le constructeur
         calcul = Fraction(self.num * autre.den, self.den * autre.num )
         return calcul
     
@@ -125,33 +125,40 @@ class Fraction :
         '''
         renvoie Vrai si la fraction est plus grande que autre
         '''
-        #on passe par une mise au même dénominateur
+        # on passe par une mise au même dénominateur
         return (self.num * autre.den >= autre.num * self.den)
     
     def __gt__(self, autre) :
         '''
         renvoie Vrai si la fraction est strictement plus grande que autre
         '''
-        #on passe par une mise au même dénominateur
+        # on passe par une mise au même dénominateur
         return (self.num * autre.den > autre.num * self.den)
     
     def __le__(self, autre) :
         '''
         renvoie Vrai si la fraction est plus petite que autre
         '''
-        #on passe par une mise au même dénominateur
+        # on passe par une mise au même dénominateur
         return (self.num * autre.den <= autre.num * self.den)
     
     def __lt__(self, autre) :
         '''
         renvoie Vrai si la fraction est strictement plus petite que autre
         '''
-        #on passe par une mise au même dénominateur
+        # on passe par une mise au même dénominateur
         return (self.num * autre.den < autre.num * self.den)
-
+        
     def __eq__(self, autre) :
         '''
         renvoie Vrai si la fraction est égale à l'autre
         '''
-        #on fait le produit en croix
+        # on fait le produit en croix
         return (self.num * autre.den == autre.num * self.den)
+    
+    
+# pour tester la classe
+if __name__ == "__main__" :
+    A = Fraction(1,3)
+    B = Fraction(1,2)
+    print(A,"+", B,"=", A+B)
