@@ -6,7 +6,7 @@
 Vous pouvez : 
 * retrouver [le cours complet](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Terminale_NSI02_La_POO.pdf) en pdf.
 
-* télécharger ou tester le module `maFraction` sur un notebook [suivant](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO/Fraction).
+* télécharger ou tester le module `maFraction` sur le notebook [suivant](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO/Fraction).
 
 * télécharger mon module `maFraction` en cliquant sur ce [lien](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Fraction/maFraction.py).
 
