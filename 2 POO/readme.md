@@ -12,7 +12,7 @@ Vous pouvez :
 
 * récupérer les documents pour  les exercices [lien](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/2%20POO/Python/2%20La%20POO.zip).
 
-* obtenir le fichier final du mini-projet [fontaine de balles rebondissantes](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO/mini-projet%20pyxel)
+* obtenir mon fichier final du mini-projet [fontaine de balles rebondissantes](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/2%20POO/mini-projet%20pyxel)
 
 ---
 
