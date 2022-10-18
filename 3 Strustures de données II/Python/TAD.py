@@ -40,17 +40,17 @@ class Liste :
             self.cellule = None
         return tete
     
-    def __str__(self):
+        def __str__(self):
         """affichage des éléments de la liste dans l'ordre"""
-        affichage = "["
+        affichage = ""
         l = self.cellule
         if l is not None :
-            affichage = affichage + str(l.tete)
+            affichage = affichage + str(l.tete) + " "
             l = l.queue 
         while l is not None :
-            affichage = affichage + "," + str(l.tete)
+            affichage = affichage + "-> " + str(l.tete) + " "
             l = l.queue
-        affichage = affichage + "]"
+        affichage = affichage + "-> None"
         return affichage
     
     def __len__(self):
