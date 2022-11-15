@@ -1,0 +1,40 @@
+from turtle import *
+shape("turtle")
+speed(0.1)
+#longueur de la coure
+l = 243
+#nombre d'appels récursif
+n = 5
+
+
+#la fonction définie par récursivité
+def koch(n,l):
+    if n == 0:
+        forward(l)
+    else:
+        koch(n-1, l/3)
+        left(60)
+        koch(n-1, l/3)
+        right(120)
+        koch(n-1, l/3)
+        left(60)
+        koch(n-1, l/3)
+
+
+#on positionne la tortue
+up()
+right(180)
+forward(l/2)
+right(180)
+down()
+
+#c'est parti pour faire un beau dessin
+koch(n,l)
+right(120)
+koch(n,l)
+right(120)
+koch(n,l)
+
+#pour fermer proprement
+exitonclick()
+mainloop()
