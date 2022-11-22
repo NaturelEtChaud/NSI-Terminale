@@ -4,4 +4,4 @@ def puiss(x,n) :
 	elif n%2 == 0 :
 		return puiss(x,n//2)**2
 	else :
-	return x*puiss(x,(n-1)//2)**2
+		return x*puiss(x,(n-1)//2)**2
