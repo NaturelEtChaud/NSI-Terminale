@@ -4,6 +4,8 @@
 
 Le [cours complet](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/5%20Base%20de%20donn%C3%A9es/Terminale_NSI05_SGBD.pdf) au format pdf
 
+Les [documents ressources](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/5%20Base%20de%20donn%C3%A9es/ressources.zip) contenus dans un seul fichier compressé au format zip
+
 ---
 
 Une toute première activité pour voir ce qu'est une requête SQL afin de la comparer avec l'utilisation d'un tableur : [Indian Food](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/5%20Base%20de%20donn%C3%A9es/indian_food)
