@@ -35,7 +35,7 @@ INSERT INTO Voiture(modele, reparation, disponible) VALUES
 ('Citroën DS', '', False),
 ('Citroën DS', '', True),
 ('Citroën DS', '', True),
-('Citroën Méhari', 'siège griffée', False),
+('Citroën Méhari', 'siège griffé', False),
 ('Citroën Méhari', 'inondée', False),
 ('Citroën Méhari', '', True),
 ('Soucoupe volante', '', False),
