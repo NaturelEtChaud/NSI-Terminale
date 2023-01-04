@@ -2,7 +2,7 @@
 SELECT nom, adresse
 FROM Client
 JOIN Location ON Location.n_client = Client.n_client
-WHERE Location.n_voiture = 16;
+WHERE Location.n_voiture = 6;
 
 
 --2)Le nom, le prénom et l'adresse de tous les clients qui n'ont pas rendu leur voiture de location.
