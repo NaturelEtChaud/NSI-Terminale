@@ -9,7 +9,7 @@ Je partage la terminale NSI avec mon collègue X. Vous ne trouverez donc ici que
 3. [Structure de données II](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/3%20Strustures%20de%20donn%C3%A9es%20II)
 4. [La récursivité](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/4%20R%C3%A9cursivit%C3%A9)
 5. [Les bases de données](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/5%20Base%20de%20donn%C3%A9es)
-6. [Diviser pour régner](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/5%20Divide%20and%20Conquer) *à refaire*
+6. [Diviser pour régner](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/6%20Diviser%20pour%20r%C3%A9gner)
 7. [Programmation dynamique](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/6%20Programmation%20Dynamique) *à refaire*
 8. Paradigme fonctionnel *à faire*
 
