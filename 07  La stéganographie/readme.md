@@ -1,4 +1,4 @@
-# 7 La stéganographie (mini-porjet)
+# 7 La stéganographie (mini-projet)
 
 Un petit intermède pendant que certains passent les épreuves pratiuques blanches
 
