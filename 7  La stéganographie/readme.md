@@ -2,6 +2,6 @@
 
 Un petit intermède pendant que certains passent les épreuves pratiuques blanches
 
-* Le [cours](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/6%20Diviser%20pour%20r%C3%A9gner/Terminale_NSI06_Divide_and_conquer.pdf) complet
-* le [fichier](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/6%20Diviser%20pour%20r%C3%A9gner/Python/6%20Diviser%20pour%20regner.zip) zip contenant tous les programmes en Python
+* Le [cours](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/7%20%20La%20st%C3%A9ganographie/Terminale_NSI07_St%C3%A9ganographie.pdf) complet
+* le [fichier](https://github.com/NaturelEtChaud/NSI-Terminale/blob/main/7%20%20La%20st%C3%A9ganographie/Python/7%20La%20st%C3%A9ganographie.zip) zip contenant tous les programmes en Python
 
